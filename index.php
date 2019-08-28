@@ -1,13 +1,21 @@
 <?php include('header.php'); ?>
   <div class="medium-12 cell">
-    <h2><a href="blog-post.php">Blog Post Title</a></h2>
     <div class="grid-x grid-margin-x">
-      <div class="medium-3 cell"><img src="https://via.placeholder.com/500?text=BLOG+IMAGE" alt=""></div>
-      <div class="medium-9 cell"><p>Blog post abstract. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem tenetur cum, doloremque officiis autem possimus. Dolores quaerat, repellat ullam molestiae quisquam ad quod necessitatibus vero, ipsam, soluta consequatur voluptate blanditiis.Lorem ipsum dolor sit amet, consectetur adipisicing elit. At ex quod, voluptatum suscipit itaque quo, dolores distinctio maiores nobis exercitationem reiciendis ad. Tempore quaerat amet, iure voluptate perferendis reiciendis in?</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque cupiditate est laboriosam quaerat blanditiis nostrum iste nihil repudiandae, nam eveniet ipsa. Maxime iusto culpa alias voluptatibus voluptatem saepe architecto dolorum.</p>
+      <div class="accordion cell" data-accordion> 
+        <div class="accordion-item is-active" data-accordion-item>
+          <a href="" class="accordion-title">What is a religious ecology?</a>
+          <div class="accordion-content" data-tab-content><img src="https://via.placeholder.com/150?text=IMAGE" class="float-left right" alt=""><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero minima repellat iure vel nisi officiis pariatur optio commodi ex, ut quis sapiente amet distinctio obcaecati repellendus placeat, vero, aspernatur dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi quasi, accusamus commodi doloribus repellendus delectus error pariatur quas harum tenetur repellat est voluptatum nesciunt a corrupti ex repudiandae aliquam! Perspiciatis.</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero minima repellat iure vel nisi officiis pariatur optio commodi ex, ut quis sapiente amet distinctio obcaecati repellendus placeat, vero, aspernatur dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi quasi, accusamus commodi doloribus repellendus delectus error pariatur quas harum tenetur repellat est voluptatum nesciunt a corrupti ex repudiandae aliquam! Perspiciatis.</p></div>
+        </div>
+        <div class="accordion-item" data-accordion-item>
+          <a href="" class="accordion-title">What was the 1926 census?</a>
+          <div class="accordion-content" data-tab-content><img src="https://via.placeholder.com/150?text=IMAGE" class="float-left right" alt=""><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero minima repellat iure vel nisi officiis pariatur optio commodi ex, ut quis sapiente amet distinctio obcaecati repellendus placeat, vero, aspernatur dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi quasi, accusamus commodi doloribus repellendus delectus error pariatur quas harum tenetur repellat est voluptatum nesciunt a corrupti ex repudiandae aliquam! Perspiciatis.</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero minima repellat iure vel nisi officiis pariatur optio commodi ex, ut quis sapiente amet distinctio obcaecati repellendus placeat, vero, aspernatur dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi quasi, accusamus commodi doloribus repellendus delectus error pariatur quas harum tenetur repellat est voluptatum nesciunt a corrupti ex repudiandae aliquam! Perspiciatis.</p></div>
+        </div>
+        <div class="accordion-item" data-accordion-item>
+          <a href="" class="accordion-title">What data sets do we have?</a>
+          <div class="accordion-content" data-tab-content><img src="https://via.placeholder.com/150?text=IMAGE" class="float-left right" alt=""><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero minima repellat iure vel nisi officiis pariatur optio commodi ex, ut quis sapiente amet distinctio obcaecati repellendus placeat, vero, aspernatur dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi quasi, accusamus commodi doloribus repellendus delectus error pariatur quas harum tenetur repellat est voluptatum nesciunt a corrupti ex repudiandae aliquam! Perspiciatis.</p><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero minima repellat iure vel nisi officiis pariatur optio commodi ex, ut quis sapiente amet distinctio obcaecati repellendus placeat, vero, aspernatur dignissimos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi quasi, accusamus commodi doloribus repellendus delectus error pariatur quas harum tenetur repellat est voluptatum nesciunt a corrupti ex repudiandae aliquam! Perspiciatis.</p></div>
+        </div>
       </div>
     </div>
-  </div>
   <hr>
   <div class="medium-12 cell">
     <div class="grid-x grid-margin-x">
